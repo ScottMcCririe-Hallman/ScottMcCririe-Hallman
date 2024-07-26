@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Front End Development
 
 - 📫 How to reach me https://www.linkedin.com/in/scott-mccririe-hallman/
-- 😄 Pronouns: ...
 
 
 <!---
